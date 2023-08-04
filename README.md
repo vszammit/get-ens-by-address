@@ -26,11 +26,11 @@ Follow these steps to run the script:
 
 
 5. Install the Alchemy SDK and the `dotenv` package running either of the following commands:
-  - `yarn add alchemy-sdk dotenv`
-  - `npm i alchemy-sdk dotenv`
+    - `yarn add alchemy-sdk dotenv`
+    - `npm i alchemy-sdk dotenv`
 
 
-7. Run the script in the terminal: `node getENS.js`
+6. Run the script in the terminal: `node getENS.js`
 
 
 By following these steps, the script will execute and fetch ENS names owned by an address, printing out the desired fields to the console.
